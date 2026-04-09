@@ -25,9 +25,9 @@ const assem = {
 
   architecture: ["Clean Architecture", "MVC", "MVVM", "SOLID", "Design Patterns"],
   concepts:     ["RESTful APIs", "WebSocket", "JWT", "OOP",
-                 "Responsive UI/UX", "Material Design", "Offline-First"],
+                 "Responsive UI/UX", "Material Design", "Offline First"],
 
-  currentFocus: "Cross-platform Flutter apps + scalable backends",
+  currentFocus: "Cross platform Flutter apps + scalable backends",
   funFact:      "I talk to my terminal more than people 🖥️",
 };
 ```
