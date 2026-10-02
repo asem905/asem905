@@ -16,7 +16,7 @@ const assem = {
   name:        "Assem Samy Mohsen",
   location:    "Alexandria, Egypt 🇪🇬",
   education:   "Electronics & Communications Engineering @ Alexandria University",
-  gpa:         "3.37 / 4.0",
+  gpa:         "3.4 / 4.0",
 
   mobile:      ["Flutter", "Dart", "BLoC/Cubit", "Provider", "GetX",
                 "SqFlite", "Firebase", "Socket.io"],
